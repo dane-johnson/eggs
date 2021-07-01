@@ -1,0 +1,4 @@
+(repo git "git://upyum.com/gl-math")
+(uri targz "https://www.upyum.com/cgit.cgi/{egg-name}/snapshot/{egg-name}-{egg-release}.tar.gz")
+(release "0.9.1")
+(release "0.9.0")
