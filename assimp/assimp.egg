@@ -1,0 +1,7 @@
+((synopsis "Asset Import Library")
+ (author "Dane Johnson")
+ (maintainer "Dane Johnson")
+ (category graphics)
+ (components
+	(extension assimp
+	 (csc-options "-L" "-lassimp"))))
